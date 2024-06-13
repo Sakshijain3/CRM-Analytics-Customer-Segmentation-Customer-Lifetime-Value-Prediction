@@ -1,4 +1,4 @@
-# CRM-Analytics-Customer-Segmentation-Customer-Lifetime-Value-Prediction
+# CRM Analytics- Customer Segmentation & Customer Lifetime Value Prediction
 
 **RFM (Recency, Frequency, Monetary) Analysis:**
 Recency is calculated as the difference between the last purchase date and a reference date. The smaller the recency, the better
